@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Eric Dignum"
   avatar           : "ericdignum.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computational scientist interested in understanding and solving socio-economic problems"
   location         : "Amsterdam, NL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.nl/citations?hl=nl&user=cB7-nPQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ericdignum"
+  orcid            : "https://orcid.org/0000-0002-9560-8005"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
