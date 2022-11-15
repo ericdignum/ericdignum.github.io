@@ -84,10 +84,10 @@ author:
   avatar           : "ericdignum.jpg"
   bio              : "Computational scientist interested in understanding and solving socio-economic problems"
   location         : "Amsterdam, NL"
-  employer         :
+  employer         : "University of Amsterdam"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.nl/citations?hl=nl&user=cB7-nPQAAAAJ"
-  email            :
+  email            : "ericdignum@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
