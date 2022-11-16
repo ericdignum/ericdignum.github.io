@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-11-16
 venue: 'Working paper'
 paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 We revisit literature about school choice and school segregation from the perspective of complexity theory. This paper argues
 that commonly found features of complex systems are all present in the dynamics of school choice. These features emerge from

@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: "Mechanisms for increased school segregation relative to residential segregation: a model-based analysis"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/mechanisms-school-residential
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Dignum, E., Athieniti, E., Boterman, W., Flache, A., & Lees, M. (2022). Mechanisms for increased school segregation relative to residential segregation: A model-based analysis. Computers, Environment and Urban Systems, 93, 101772.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Excess school segregation is a phenomena observed across many countries and one common explanation from the
+literature is the hypothesis that parents might want to live in a diverse neighbourhood, but when it comes to their
+children, they are less tolerant with respect to school compositions. This study uses an agent-based model where
+households face residential decisions depending on neighbourhood compositions and make school choices based
+on distance and school compositions. Results indicate that increased school segregation relative to residential
+segregation can be observed in large parts of the parameter space, even when the tolerance for households
+belonging to the other group is equal for neighbourhood and school compositions. Our results demonstrate that
+asymmetric preferences are not a requirement for excess school segregation and show that residential segregation
+combined with distance preferences play a key role in this increase.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
