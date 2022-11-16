@@ -11,7 +11,7 @@ explanations of resilient patterns of school segregation and may help identifyin
 requires a combination of theoretically informed computational modeling with empirical data about specific social and institutional
 contexts. We argue that this combination is missing in currently employed methodologies in the field. Pathways for developing it
 are discussed.'
-date: 2022-11
+date: 2022-11-01
 venue: 'Working paper'
 paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

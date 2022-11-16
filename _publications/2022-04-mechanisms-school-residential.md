@@ -11,7 +11,7 @@ segregation can be observed in large parts of the parameter space, even when the
 belonging to the other group is equal for neighbourhood and school compositions. Our results demonstrate that
 asymmetric preferences are not a requirement for excess school segregation and show that residential segregation
 combined with distance preferences play a key role in this increase.'
-date: 2022-04
+date: 2022-04-01
 venue: 'Computers, Environment and Urban Systems'
 paperurl: 'https://doi.org/10.1016/j.compenvurbsys.2022.101772'
 citation: 'Dignum, E., Athieniti, E., Boterman, W., Flache, A., & Lees, M. (2022). Mechanisms for increased school segregation relative to residential segregation: A model-based analysis. Computers, Environment and Urban Systems, 93, 101772.'
