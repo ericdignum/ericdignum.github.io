@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Science in Econometrics and Operations Research (Cum Laude), University of Amsterdam, 2011-2014
 * Master of Science in Econometrics (GPA 8.2/10), University of Amsterdam, 2014-2017
-* Master of Science in Teaching Mathematics (Cum Laude), University of Amsterdam, 2018-2019
+* Master of Science in Teacher Mathematics (Cum Laude), University of Amsterdam, 2018-2019
 * Ph.D in Computational Science, University of Amsterdam, 2023 (expected)
 
 
@@ -27,7 +27,7 @@ Work experience
   * Vechtstede College, Weesp
   * Internship which is a compulsory part of the master ”Teacher Mathematics”
 
-* 2014–2018 Consultant 
+* 2014–2018 Data-analist / Consultant 
   * ClickValue, Amsterdam
   * ClickValue optimises the online marketing activities of its clients. My main task was
 to optimise websites with use of data analyses (Conversion Rate Optimisation; CRO).
