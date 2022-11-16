@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Econometrics and Operations Research (Cum Laude), University of Amsterdam, 2011-2014
+* Master of Science in Econometrics (GPA 8.2/10), University of Amsterdam, 2014-2017
+* Master of Science in Teaching Mathematics (Cum Laude), University of Amsterdam, 2018-2019
+* Ph.D in Computational Science, University of Amsterdam, 2023 (expected)
+
+
+2018–2019 , Vechtstede College, Weesp
+Internship which is a compulsory part of the master ”Teacher Mathematics”
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Internship: Teacher Mathematics
+  * Vechtstede College, Weesp
+  * Internship which is a compulsory part of the master ”Teacher Mathematics”
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014–2018 Consultant 
+  * ClickValue, Amsterdam
+  * ClickValue optimises the online marketing activities of its clients. My main task was
+to optimise websites with use of data analyses (Conversion Rate Optimisation; CRO).
+Additionally, if analyses required sophisticated analysis methods based on more serious
+mathematics and statistics, for example Machine Learning techniques, I often assisted as well.
   
-Skills
+<!-- Skills
 ======
-* Skill 1
+* Programming
+  * Python
+  * R
+  * Mathematica
+  * MatLab
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -54,6 +65,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
