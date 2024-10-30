@@ -26,6 +26,6 @@ belonging to the other group is equal for neighbourhood and school compositions.
 asymmetric preferences are not a requirement for excess school segregation and show that residential segregation
 combined with distance preferences play a key role in this increase.
 
-[Download paper here](https://doi.org/10.1016/j.compenvurbsys.2022.101772)
+<!-- [Download paper here](https://doi.org/10.1016/j.compenvurbsys.2022.101772)
 
-Dignum, E., Athieniti, E., Boterman, W., Flache, A., & Lees, M. (2022). Mechanisms for increased school segregation relative to residential segregation: A model-based analysis. Computers, Environment and Urban Systems, 93, 101772.
+Dignum, E., Athieniti, E., Boterman, W., Flache, A., & Lees, M. (2022). Mechanisms for increased school segregation relative to residential segregation: A model-based analysis. Computers, Environment and Urban Systems, 93, 101772. -->
