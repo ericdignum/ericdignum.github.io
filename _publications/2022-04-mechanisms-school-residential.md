@@ -1,5 +1,5 @@
 ---
-title: "[Mechanisms for increased school segregation relative to residential segregation: a model-based analysis](https://doi.org/10.1016/j.compenvurbsys.2022.101772)"
+title: "Mechanisms for increased school segregation relative to residential segregation: a model-based analysis"
 collection: publications
 permalink: /publication/mechanisms-school-residential
 excerpt: 'Excess school segregation is a phenomena observed across many countries and one common explanation from the
