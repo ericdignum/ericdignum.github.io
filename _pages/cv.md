@@ -19,19 +19,19 @@ Education
 
 Work experience
 ======
-* 2023-2025: Postdoc in Computational Science 
+* **2023-2025: Postdoc in Computational Science** 
   * Complex systems analysis of well-being
   * University of Amsterdam, Computational Science Lab
 
-* 2019-2025: Ph.D in Computational Science 
+* **2019-2025: Ph.D in Computational Science** 
   * Computational modelling of school choice and school segregation: from theoretical to data-driven agent-based models
   * University of Amsterdam, Computational Science Lab
 
-* 2018-2019: Internship: Teacher Mathematics
+* **2018-2019: Internship: Teacher Mathematics**
   * Vechtstede College, Weesp
   * Internship which was a compulsory part of the master ”Teacher Mathematics”
 
-* 2014–2018 Data-analist / Consultant 
+* **2014–2018 Data-analist / Consultant** 
   * ClickValue, Amsterdam
   * ClickValue optimises the online marketing activities of its clients. My main task was
 to optimise websites with use of data analyses (Conversion Rate Optimisation; CRO).
